@@ -7,7 +7,7 @@ navigation: false
 ---
 actions:
   - name: Начать
-    to: /client-area/start
+    to: /introduction/start
 ---
 
 #title
@@ -18,5 +18,5 @@ Shieldy
 ::
 
 ::div{class="border rounded-lg shadow-md"}
-  :iframe{src="/client-area/start" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
+  :iframe{src="/introduction/start" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
 ::
