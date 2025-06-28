@@ -1,2 +1,2 @@
-# База знаний Shieldy.cc
-[Shieldy.cc Wiki](https://wiki.shieldy.cc)
+# База знаний Shieldy.top
+[Shieldy.cc Wiki](https://wiki.shieldy.top)
