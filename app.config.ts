@@ -2,7 +2,7 @@ export default defineAppConfig({
 	shadcnDocs: {
 		site: {
 			name: 'Shieldy Wiki',
-			description: 'Открытая база знаний Shieldy.cc',
+			description: 'Открытая база знаний Shieldy',
 		},
 		theme: {
 			customizable: false,
@@ -14,8 +14,8 @@ export default defineAppConfig({
 			showTitle: true,
 			darkModeToggle: true,
 			logo: {
-				light: 'https://shieldy.cc/logo-gradient.svg',
-				dark: 'https://shieldy.cc/logo-gradient.svg',
+				light: 'https://shieldy.top/logo-gradient.svg',
+				dark: 'https://shieldy.top/logo-gradient.svg',
 			},
 			nav: [],
 			links: [
